@@ -1,5 +1,5 @@
 body{
-    background-color: rgb(27, 255, 255);
+    background-color: rgb(205, 251, 251);
 }
 h2 {
     color:black;
@@ -17,4 +17,15 @@ ul {
 img{
     float: bottom;
     border-radius: 15px;
+}
+.clearfix {
+    overflow: auto;
+  }
+
+  a {
+    color: blue; opacity: 0.5;
+}
+p {
+    text-indent: 2em;
+    text-align: left;
 }
